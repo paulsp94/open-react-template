@@ -6,7 +6,7 @@ import Image from "../elements/Image";
 import {
   attributes,
   react as FeatureIntuitiv,
-} from "../../_content/features/-intuitiv.md";
+} from "../../../_content/features/-intuitiv.md";
 
 const propTypes = {
   ...SectionTilesProps.types,
